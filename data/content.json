@@ -1,47 +1,110 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Flor De Cafe Bakery",
+  "tagline": "Panadería · Glendale",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "heading": "Pan dulce, conchas, y café — fresh from 5 AM.",
+    "subheading": "A Glendale Mexican bakery on Colorado Street baking conchas, marranitos, bolillos and tres leches the way they should be. Open from breakfast to almost bedtime.",
+    "ctaText": "Visit la panadería",
+    "ctaLink": "#visit",
+    "image": "https://images.unsplash.com/photo-1568051243851-f9b136146e97?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "heading": "De la familia, para la mesa.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Flor De Cafe is the Hernández family bakery — Doña Rosa started it on Colorado Street in 2008 with three trays of pan dulce and a borrowed espresso machine. Today her sons Luis and Mario run the morning shift; she still rolls the bolillos at 5 AM.",
+      "Every concha is hand-shaped, scored with the shell pattern by hand, and baked in our original ovens. Café de olla brewed with cinnamon and piloncillo, hot chocolate spun on a molinillo, all-day breakfast on the weekends.",
+      "Open 7 AM to 9 PM. Cash discount. We accept orders for tres leches, quinceañera cakes, and Día de los Muertos pan de muerto — call two days ahead."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Pan Dulce Surtido",
+      "description": "The morning selection — conchas (rosa, café y blanca), marranitos, cuernos, polvorones, orejas, empanadas de calabaza. Sold by the piece or by the bag.",
+      "price": "$1.50 each · $14/dozen"
+    },
+    {
+      "title": "Café de Olla",
+      "description": "Slow-simmered with stick cinnamon, cloves, and piloncillo. Served hot in a clay mug for here or a cup to go. Refills $1.",
+      "price": "$3.50"
+    },
+    {
+      "title": "Tres Leches Cake",
+      "description": "Soaked sponge with three milks (evaporada, condensada, crema), crowned with cinnamon whipped cream. Slice or whole, made fresh daily.",
+      "price": "$5 / slice · $42 whole"
+    },
+    {
+      "title": "Bolillo & Telera",
+      "description": "Crusty white rolls baked twice a day. Telera for tortas, bolillo for everything else. Pick up warm if you get here before 11.",
+      "price": "$0.85 each"
+    },
+    {
+      "title": "Pastel de Quinceañera",
+      "description": "Custom multi-tier celebration cakes — tres leches, chantilly strawberry, chocoflan, or rosca. Two-day notice. We sketch with you.",
+      "price": "From $180"
+    },
+    {
+      "title": "Tamales y Atole",
+      "description": "Saturdays and Sundays from open till sold out — rojo, verde, dulce de fresa, plus champurrado and atole de arroz to warm the morning.",
+      "price": "$3 each · 6 for $16"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Lupe G.",
+      "rating": 5,
+      "text": "My family has been coming here for 12 years. The conchas are exactly how Mami used to bring them home — soft, sweet, perfect with the café de olla."
+    },
+    {
+      "name": "Ramon V.",
+      "rating": 4,
+      "text": "Best tres leches in Glendale. They give you a generous slice and the cinnamon cream is real, not the squirty stuff. Worth every dollar."
+    },
+    {
+      "name": "Jessica T.",
+      "rating": 4,
+      "text": "Ordered a quinceañera cake — three tiers, custom roses, drove from Burbank to pick it up. Beautiful, tasted even better."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 543-1401",
+    "email": "hola@flordecafebakery.com",
+    "address": "537 E Colorado St, Glendale, CA 91205",
+    "mapEmbedQuery": "Flor De Cafe Bakery 537 E Colorado St Glendale CA 91205",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "7 AM – 9 PM",
+      "Tuesday": "7 AM – 9 PM",
+      "Wednesday": "7 AM – 9 PM",
+      "Thursday": "7 AM – 9 PM",
+      "Friday": "7 AM – 9 PM",
+      "Saturday": "7 AM – 9 PM",
+      "Sunday": "7 AM – 8 PM"
+    }
   },
-  "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+  "gallery": [
+    "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1517433367423-c7e5b0f35086?w=1200&q=80&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=1200&q=80&auto=format&fit=crop"
+  ],
+  "social": {
+    "yelp": "https://www.yelp.com/biz/flor-de-cafe-bakery-glendale",
+    "facebook": "https://www.facebook.com/1508987276081632"
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#D8527A",
+    "accentColor": "#8B4513",
+    "fontFamily": "Lobster + Inter"
+  },
+  "seo": {
+    "title": "Flor De Cafe Bakery — Mexican panadería in Glendale",
+    "description": "Mexican bakery on Colorado St serving fresh conchas, pan dulce, tres leches, café de olla and custom celebration cakes. Open 7 AM – 9 PM.",
+    "keywords": [
+      "Mexican bakery Glendale",
+      "panaderia Glendale",
+      "conchas Glendale",
+      "tres leches Glendale",
+      "Flor De Cafe",
+      "pan dulce Glendale",
+      "Colorado St bakery"
+    ]
   }
 }
